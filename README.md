@@ -1,0 +1,1 @@
+Los requerimientos funcionales se encuentran en el archivo [DSR.md](./DSR.md)
