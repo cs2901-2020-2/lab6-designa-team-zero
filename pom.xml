@@ -11,6 +11,11 @@
     <properties>
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
+        <sonar.projectKey>cs2901-2020-2_lab6-designa-team-zero</sonar.projectKey>
+        <sonar.organization>cs2901-2020-2</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.login>89858326906f75c6ca4736786112ff006149d490</sonar.login>
+
     </properties>
 
     <dependencies>
