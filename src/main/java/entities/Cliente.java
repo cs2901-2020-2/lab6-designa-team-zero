@@ -1,3 +1,4 @@
+package entities;
 import java.util.logging.Logger;
 
 public class Cliente {
