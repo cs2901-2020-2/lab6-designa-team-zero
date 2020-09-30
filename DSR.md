@@ -11,7 +11,10 @@
 
 # Casos de Uso
 
-1.
+1. El sistema recibe la información metereológica de los sensores.
+2. El sistema debe actualizar la información.
+3. El sistema entrega la información a los clientes.
+4. El cliente puede leer la información actualizada.
 
 # Diagrama de Casos de Uso
 
